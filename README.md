@@ -1,3 +1,5 @@
 # Practice-demo
+
 This is a practice demo
-Author - Amrit Moktan
+<br>
+Author - Amrit Moktan Tamang
